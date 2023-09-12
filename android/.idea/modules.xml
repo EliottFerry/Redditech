@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ReactTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ReactTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1172220724/ReactTest.@react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1172220724/ReactTest.@react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ReactTest.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ReactTest.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/449965099/ReactTest.react-native-app-auth.iml" filepath="$PROJECT_DIR$/.idea/modules/449965099/ReactTest.react-native-app-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1172220724/ReactTest.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1172220724/ReactTest.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1089880584/ReactTest.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1089880584/ReactTest.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/46380048/ReactTest.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/46380048/ReactTest.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1129548691/ReactTest.react-native-svg.iml" filepath="$PROJECT_DIR$/.idea/modules/-1129548691/ReactTest.react-native-svg.iml" />
+    </modules>
+  </component>
+</project>

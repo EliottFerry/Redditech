@@ -1,0 +1,4 @@
+Step 1 : https://www.reddit.com/api/v1/authorize?client_id=weyNMS6YCN78ce_KXRlgbA&response_type=code&state=testrandomstring&redirect_uri=http://localhost:8200/&duration=permanent&scope=identity%20history%20edit%20mysubreddits%20privatemessages%20read%20report%20save%20submit%20vote%20subscribe
+Step 2 : Get the "code" given in the URL
+Step 3 : Post (not with URL) this :
+Step 4 : Use Snoowrap to connect to the API
